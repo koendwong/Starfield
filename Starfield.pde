@@ -55,7 +55,6 @@ void draw() {
       carl[i] = null;
   }
   if (carl[100].yPos < 25) {
-    System.out.println(grav/60);
     grav++;
   }
   else {
